@@ -1,5 +1,11 @@
 ## Hi there 👋
+🌱 I’m currently learning Computer Science Engenerring (Sp. Cyber security) under Ganpat university x IBM
 
+🤔 I’m looking for help with Computer Science and Engineering
+
+📫 How to reach me: rishirust001@gmail.com
+
+⚡ Fun fact: ...
 <!--
 **Rishi-Rust/Rishi-Rust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
